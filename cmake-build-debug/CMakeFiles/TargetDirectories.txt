@@ -1,3 +1,0 @@
-/home/jake/Desktop/words/cmake-build-debug/CMakeFiles/words.dir
-/home/jake/Desktop/words/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jake/Desktop/words/cmake-build-debug/CMakeFiles/rebuild_cache.dir
