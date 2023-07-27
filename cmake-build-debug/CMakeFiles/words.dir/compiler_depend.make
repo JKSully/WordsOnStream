@@ -212,6 +212,8 @@ CMakeFiles/words.dir/words.cpp.o: /home/jake/Desktop/words/words.cpp \
   /usr/include/c++/12.2.0/sstream \
   /usr/include/c++/12.2.0/bits/sstream.tcc \
   /usr/include/c++/12.2.0/iostream \
+  /usr/include/c++/12.2.0/tuple \
+  /usr/include/c++/12.2.0/bits/uses_allocator.h \
   /usr/include/c++/12.2.0/vector \
   /usr/include/c++/12.2.0/bits/stl_uninitialized.h \
   /usr/include/c++/12.2.0/bits/stl_vector.h \
@@ -222,6 +224,8 @@ CMakeFiles/words.dir/words.cpp.o: /home/jake/Desktop/words/words.cpp \
 /usr/include/c++/12.2.0/bits/vector.tcc:
 
 /usr/include/c++/12.2.0/bits/stl_vector.h:
+
+/usr/include/c++/12.2.0/tuple:
 
 /usr/include/c++/12.2.0/iostream:
 
@@ -434,6 +438,8 @@ CMakeFiles/words.dir/words.cpp.o: /home/jake/Desktop/words/words.cpp \
 /usr/include/x86_64-linux-gnu/bits/wordsize.h:
 
 /usr/include/c++/12.2.0/x86_64-unknown-linux-gnu/bits/os_defines.h:
+
+/usr/include/c++/12.2.0/bits/uses_allocator.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
 

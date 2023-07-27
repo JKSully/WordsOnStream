@@ -182,7 +182,9 @@ CMakeFiles/words.dir/words.cpp.o: /home/jake/Desktop/words/words.cpp \
  /usr/include/c++/12.2.0/bits/locale_conv.h \
  /usr/include/c++/12.2.0/bits/quoted_string.h \
  /usr/include/c++/12.2.0/sstream /usr/include/c++/12.2.0/bits/sstream.tcc \
- /usr/include/c++/12.2.0/iostream /usr/include/c++/12.2.0/vector \
+ /usr/include/c++/12.2.0/iostream /usr/include/c++/12.2.0/tuple \
+ /usr/include/c++/12.2.0/bits/uses_allocator.h \
+ /usr/include/c++/12.2.0/vector \
  /usr/include/c++/12.2.0/bits/stl_uninitialized.h \
  /usr/include/c++/12.2.0/bits/stl_vector.h \
  /usr/include/c++/12.2.0/bits/stl_bvector.h \
