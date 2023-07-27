@@ -144,9 +144,9 @@ public:
                 coolBank[i - 'a'] = std::make_pair(i, count_);
             }
             std::sort(coolBank.begin(), coolBank.end(), [this](pt const &lhs, pt const &rhs) -> bool {
-                //                uint32_t ll = letterCount[lhs.first];
-                //                uint32_t rr = letterCount[rhs.first];
-                //                return std::make_pair(lhs.second, rr) > std::make_pair(rhs.second, ll);
+                if (lhs.second == rhs.second){
+                    return letterCount[lhs.first - 'a'] > letterCount[rhs.first - 'a'];
+                }
                 return lhs.second > rhs.second;
             });
             int counter = 0;
