@@ -1,0 +1,3 @@
+/home/jake/WordsOnStream/build/CMakeFiles/words.dir
+/home/jake/WordsOnStream/build/CMakeFiles/edit_cache.dir
+/home/jake/WordsOnStream/build/CMakeFiles/rebuild_cache.dir
